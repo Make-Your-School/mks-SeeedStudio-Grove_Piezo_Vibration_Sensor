@@ -16,6 +16,9 @@ repo_part: "Grove_Piezo_Vibration_Sensor"
 product_url: "https://wiki.seeedstudio.com/Grove-Piezo_Vibration_Sensor/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Piezo_Vibration_Sensor.git"
 embedded_example_file: "examples/Grove_Piezo_Vibration_Sensor_minimal/Grove_Piezo_Vibration_Sensor_minimal.ino"
+title: 'Vibrationssensor'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
